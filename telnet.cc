@@ -29,7 +29,7 @@ int main(int argc, char *argv[])
 
         std::cout << "Trying 192.168.1.1..." << std::endl;
         std::cout << "Connected to " << argv[1] << "." << std::endl;
-        std::cout << "Escape character is '^]'." << std::endl
+        std::cout << "Escape character is '^]'." << std::endl;
 
         std::cout << "Login: ";
         std::cin >> login;
